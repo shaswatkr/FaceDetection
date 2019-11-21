@@ -1,4 +1,4 @@
-# import modules
+
 import requests
 
 # Request headers set Subscription key which provides access to this API. Found in your Cognitive Services accounts.
@@ -6,6 +6,9 @@ headers = {
     'Content-Type': 'application/json',
     'Ocp-Apim-Subscription-Key': '6b83d43d62544a8a90b837b8be390a87',
 }
+
+#bdsbdxhjhavedjhdyvasjhdvjh
+#jbjbsjhjs
 
 personGroupId="friends"
 
