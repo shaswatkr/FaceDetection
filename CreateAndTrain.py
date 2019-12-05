@@ -7,9 +7,6 @@ headers = {
     'Ocp-Apim-Subscription-Key': '6b83d43d62544a8a90b837b8be390a87',
 }
 
-#bdsbdxhjhavedjhdyvasjhdvjh
-#jbjbsjhjs
-
 personGroupId="friends"
 
 # Request Body
