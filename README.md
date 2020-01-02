@@ -18,3 +18,5 @@
 
 `DetectAnyFace.py` - Supply the URL of image you want to detect and the model will detect the face.
 
+# https://filmsane.com/wp-content/uploads/2017/11/Matt-LeBlanc-750x375.jpg
+# Replace this URl with the current URL in DetectAanyface line 11
