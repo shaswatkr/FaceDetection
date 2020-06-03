@@ -1,4 +1,4 @@
-# FaceDetection
+# FaceDetection algorith, but the depo use as Demo
 
 1) Install PyCharm as Python IDE to run.
 2) Install Request in PyCharm to use it's properties.
